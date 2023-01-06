@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Sigma Byte 👋
+
+I create programming video tutorials and crash courses on YouTube!
 
 <!--
 **SigmaByteYT/SigmaByteYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
